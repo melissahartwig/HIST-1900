@@ -1,0 +1,2 @@
+Mark III, which was begun in May, 1946, has been built for the Bureau of the Ordnance of the U. S. Navy to be used at the Naval Proving Ground Command at Dahlgren, Virginia.
+	www.thecrimson.com. “Harvard Unveils Mark III Calculator; Machine, New, Faster, Goes to Navy | News | the Harvard Crimson.” The Harvard Crimson, September 26, 1949. https://www.thecrimson.com/article/1949/9/26/harvard-unveils-mark-iii-calculator-machine/. (accsessed Mar 10)

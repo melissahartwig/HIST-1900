@@ -1,0 +1,2 @@
+The Harvard Mark II, also known as the Aiken Relay Calculator, was an electromechanical computer built under the direction of Howard Aiken at Harvard University, completed in 1947. It was financed by the United States Navy and used for ballistic calculations at Naval Proving Ground Dahlgren.
+	Wikipedia. “Harvard Mark II.” Wikimedia Foundation, Inc., September 10, 2021. https://en.wikipedia.org/wiki/Harvard_Mark_II. (accsessed Mar 10)

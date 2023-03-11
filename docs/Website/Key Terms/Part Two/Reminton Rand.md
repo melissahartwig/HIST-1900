@@ -1,0 +1,2 @@
+Remington Rand, Inc., was an early American business machine manufacturer, originally a typewriter manufacturer and in a later incarnation the manufacturer of the **UNIVAC** line of mainframe computers.
+	Wikipedia. “Remington Rand.” Wikimedia Foundation, Inc., November 2, 2021. https://en.wikipedia.org/wiki/Remington_Rand. (accsessed Mar 10)

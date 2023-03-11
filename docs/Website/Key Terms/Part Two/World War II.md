@@ -1,0 +1,1 @@
+Because of the advance German tech many countires had to develop new technologies in order to fight back.

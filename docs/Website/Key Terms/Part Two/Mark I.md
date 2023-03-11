@@ -1,0 +1,2 @@
+One of the earliest electromechanical computers. Produced by IBM.
+	Yale University. “Grace Murray Hopper (1906-1992): A Legacy of Innovation and Service.” YaleNews. Yale University, February 10, 2017. https://news.yale.edu/2017/02/10/grace-murray-hopper-1906-1992-legacy-innovation-and-service.(accsessed Mar 10)

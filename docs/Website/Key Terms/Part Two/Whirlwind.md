@@ -1,0 +1,3 @@
+The Whirlwind one of the earliest hight-speed digital computers. The device was created by MIT.
+- Was also the first digital computer able to operate in real-time and the first digital computer at MIT.
+	Weinstock, Maia. “Scene at MIT: A Black Computing Pioneer Takes His Place in Technology History.” MIT News | Massachusetts Institute of Technology. MIT News, February 3, 2021. https://news.mit.edu/2021/scene-at-mit-computing-pioneer-joe-thompson-technology-history-0203. (accsessed Mar 10)
