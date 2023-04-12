@@ -1,0 +1,1 @@
+A bulletin board system (BBS), also called computer bulletin board service, is a computer server running software that allows users to connect to the system using a terminal program.

@@ -13,6 +13,13 @@ Part Two Notes:
 - [[Howard Aiken (1900 - 1973)]]
 - [[Joseph Thompson (1893 - 2005)]]
 
+Part Three Notes:
+- [[Anatomy of an AI System]]
+- [[My Secret Life as an 11-Year-Old BBS Sysop]]
+- [[The Birth of the Modem World]]
+- [[The Killer App- How the Cold War Created Videos Games and Vice Versa]]
+- [[The Route of a Text Message, a Love Story]]
+
 Key Terms:
 	Part 1
 		[[Machines]]
@@ -27,3 +34,6 @@ Key Terms:
 		[[SAGE]]
 		[[The Six]]
 		[[Whirlwind]]
+	Part 3
+		[[BBS]]
+		[[Modem]]
