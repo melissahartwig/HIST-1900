@@ -1,0 +1,2 @@
+**What is the most powerful thing you've learned in this course?**
+	I learnt how to do closed readings of sorces relivent to the corse. This skill is useful for later classes where I will have to conduct proper research.
